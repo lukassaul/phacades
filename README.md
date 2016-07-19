@@ -1,6 +1,6 @@
 # phacades
 
-Psycho-Historical Analysis Correlating Arbitrary Divisions and Emerging Superpositions 
+(Psycho-Historical Analysis Correlating Arbitrary Divisions and Emerging Superpositions)
 
 PHACADES is a meta-statistical analysis project in anthropological and historically significant observables.  
 
@@ -9,19 +9,19 @@ statistics of arbitraily chosen geographic divisions (in our case divided along 
 correlations can be drawn.  It is our hope that the inferences of these correlations will include new insight in the 
 interplay of the observable quantitities.  
 
-THE DATASETS 
+# THE DATASETS 
 
 Every dataset we include has as it's first column a "country" name, a two letter country code.  These arbitrary gegraphic 
 divisions have generally been a pox on the skin of mankind and spaceship earth but they can be of use in a statistical 
 correlation analysis such as this one.  For this project we limit ourselves to these arbitrary divisions - ignoring 
-for example studies based on County, Continent, or province.  While this eliminates useful data such as that compiled 
-by the China Project, we must choose anarrow focus to make progress.  The second  column will have a statistic quantified 
+for example studies based on County, Continent, or Province.  While this eliminates useful data such as that compiled 
+by the China Project, we must choose a narrow focus to make progress.  The second column will have a statistic quantified 
 over the region.   The statistics we seach are of four types:  
 
-1)  Health     e.g. per capital Lung Cancer, death rate, asthma rate
-2)  Economic    e.g. gdp per capita, home ownership rate, income spread, debt rate
-3)  Behavioral    e.g. tv use, alcohol use, dairy consumption, church attendance 
-4)  Situational   e.g. average rainfall, 
+1)  Health     e.g. per capital Lung Cancer, death rate, asthma rate, dental caries rate
+2)  Economic    e.g. gdp per capita, home ownership rate, income spread, debt rate, stock market to income ratio
+3)  Behavioral    e.g. tv use, alcohol use, dairy consumption, church attendance, animal protein consumption 
+4)  Situational   e.g. average rainfall, average altitude, total coastline, averge temperature
 
 THE FORMATS
 
@@ -38,7 +38,8 @@ THE ANALYSIS
 As data come in, our correlation matrix will grow.  A relational database will be built and other higher order techniques 
 of analysis embarked upon.  While correlation is a powerful indicator, understanding that correlation is not 
 causation and moving forward with understanding the reason for the correlation will take careful modeling.  
-The end goal is for psychohistorical models to use this dataset as a training set.
+The end goal is for psychohistorical models to use this dataset as a training set, enbaling predictions and 
+greater understanding of anthropological evolution aka psychohistory.
 
 
 
