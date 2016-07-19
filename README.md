@@ -19,9 +19,14 @@ by the China Project, we must choose a narrow focus to make progress.  The secon
 over the region.   The statistics we seach are of four types:  
 
 1)  Health     e.g. per capital Lung Cancer, death rate, asthma rate, dental caries rate
+
 2)  Economic    e.g. gdp per capita, home ownership rate, income spread, debt rate, stock market to income ratio
+
 3)  Behavioral    e.g. tv use, alcohol use, dairy consumption, church attendance, animal protein consumption 
+
 4)  Situational   e.g. average rainfall, average altitude, total coastline, averge temperature
+
+Submitted datasets are already existing compilations, not taken for this study.  
 
 THE FORMATS
 
