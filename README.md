@@ -28,7 +28,7 @@ over the region.   The statistics we seach are of four types:
 
 Submitted datasets are already existing compilations, not taken for this study.  
 
-THE FORMATS
+# THE FORMATS
 
 When submitting a dataset, the proper format is as a .txt or .csv file.  Before or after the data itself must be included a 
 description of the data - when it was taken, by whom, what url, and a general impression of the quality or notes.  Of 
@@ -36,9 +36,11 @@ great import is the unit of the number, a description of the quantity reported i
 
 Datasets can be merged into a single .txt or .csv file if they are from the same source.  
 
-Datasets can be submitted here to github as a pull request or via email to lsaul@vtscc.org.  
+Datasets can be submitted here to github as a pull request or via email to lsaul (at) vtscc.org.  
 
-THE ANALYSIS 
+Datasets should contain the name and date of the source as well as the name of submitter and date of submission in this format to PHACADES.  
+
+# THE ANALYSIS 
 
 As data come in, our correlation matrix will grow.  A relational database will be built and other higher order techniques 
 of analysis embarked upon.  While correlation is a powerful indicator, understanding that correlation is not 
